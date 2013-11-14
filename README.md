@@ -21,7 +21,7 @@ AngularJs
 </code>
 
  </pre>
-<h5> Echo 結果 </5>
+<h5> Echo 結果 </h5>
 用雙大刮弧包起來，就能將結果印出來:
 <pre>
  <code>
