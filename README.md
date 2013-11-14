@@ -15,7 +15,7 @@ AngularJs
  <h3>宣告文件要使用Angular</h3>
  在需要使用Angularjs的標籤內寫入ng-app，通常為了方便，都會直接在html標籤就使用:
  <pre>
-  \< html ng-app \>
+  html ng-app
  </pre>
 
  Referance
